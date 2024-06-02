@@ -1,3 +1,4 @@
+:allow_comments: False
 Escoop Documentation
 ====================
 
