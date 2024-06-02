@@ -1,2 +1,2 @@
-Escoop Documentation
+Escoop Documentatio
 ===================
