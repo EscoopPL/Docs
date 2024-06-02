@@ -1,4 +1,4 @@
-:allow_comments: False
+:html_theme.sidebar_secondary.remove:
 Escoop Documentation
 ====================
 
