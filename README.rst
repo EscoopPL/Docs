@@ -1,3 +1,6 @@
+.. image:: https://readthedocs.org/projects/escoopdocs/badge/?version=latest
+    :target: https://escoopdocs.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
 Escoop Documentation
 =======================================
 
