@@ -1,0 +1,7 @@
+site_name: Escoop Docs
+nav:
+  - Home: index.md
+repo_url: https://github.com/EscoopPL/Docs/tree/main
+theme:
+  name: mkdocs
+  color_mode: dark
