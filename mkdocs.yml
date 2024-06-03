@@ -1,7 +1,9 @@
 site_name: Escoop Docs
 nav:
   - Home: index.md
-repo_url: https://github.com/EscoopPL/Docs/tree/main
+repo_url: https://github.com/EscoopPL/Docs
+site_description: Escoop Documentation
+copyright: Licensed Under MIT License
+site_author: DDAN
 theme:
-  name: mkdocs
-  color_mode: dark
+  custom-dir: psinder
