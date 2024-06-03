@@ -6,4 +6,4 @@ site_description: Escoop Documentation
 copyright: Licensed Under MIT License
 site_author: DDAN
 theme:
-  custom-dir: psinder
+  name: mkdocs
