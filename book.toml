@@ -1,0 +1,6 @@
+[book]
+authors = ["DDAN"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Escoop Documentation"
